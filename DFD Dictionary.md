@@ -1,4 +1,4 @@
-Developer: The person who is writiing code and wants to use this program to check for Open Source Software.
+Developer: The person who is writing code and wants to use this program to check for Open Source Software.
 
 Manager: The person who is managing the developers.
 
