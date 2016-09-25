@@ -8,4 +8,4 @@ License: An agreement that has to be followed to be able to use this piece of co
 
 Vulnerability: Anything that can bring harm to the system.
 
-NIST vulnerabilities: 
+NIST vulnerabilities Database: A database online that holds a large amount of known vulnerabilities found in various programs. 
