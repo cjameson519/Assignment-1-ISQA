@@ -1,5 +1,5 @@
 
-#### Title: Determine Lincense and Vulnerability Information 
+#### Title: Determining Lincense and Vulnerability Information 
 
 Primary Actor: Manager 
 
