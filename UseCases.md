@@ -1,4 +1,4 @@
-####Use Case 1
+####Use Case 1:
 
 #### Title: Determining Lincense and Vulnerability Information 
 
@@ -20,6 +20,6 @@ Failed End Conditions: The manager cannot get all information or the information
 Trigger: Manager tries to look up any project information.
 
 
-####Use Case 2
+####Use Case 2:
 
-####Use Case 3
+####Use Case 3:
