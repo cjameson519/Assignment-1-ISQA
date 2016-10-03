@@ -1,3 +1,4 @@
+####Use Case 1
 
 #### Title: Determining Lincense and Vulnerability Information 
 
@@ -17,3 +18,8 @@ Main Success Scenario: Manager can get the correct and full project information.
 Failed End Conditions: The manager cannot get all information or the information is not correct.
 
 Trigger: Manager tries to look up any project information.
+
+
+####Use Case 2
+
+####Use Case 3
