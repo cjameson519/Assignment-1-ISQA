@@ -21,9 +21,9 @@ Trigger: Manager tries to look up any project information.
 
 
 
-####Use Case 2:
+###Use Case 2:
 
-#### Title: Submitting Software for License and Vulnerability Information 
+###Title: Submitting Software for License and Vulnerability Information 
 
 Primary Actor: Developer 
 
@@ -42,9 +42,9 @@ Trigger: Developer tries to upload a software package.
 
 
 
-####Use Case 3:
+###Use Case 3:
 
-#### Title: Uploading New Policies
+### Title: Uploading New Policies
 
 Primary Actor: Manager 
 
