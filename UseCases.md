@@ -1,6 +1,6 @@
-####Use Case 1:
+###Use Case 1:
 
-#### Title: Determining Software Project License and Vulnerability Information 
+### Title: Determining Software Project License and Vulnerability Information 
 
 Primary Actor: Manager 
 
