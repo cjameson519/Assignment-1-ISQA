@@ -1,6 +1,6 @@
 ####Use Case 1:
 
-#### Title: Determining Lincense and Vulnerability Information 
+#### Title: Determining License and Vulnerability Information 
 
 Primary Actor: Manager 
 
