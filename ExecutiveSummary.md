@@ -1,9 +1,5 @@
+This is a new process that is designed to help both managers and developers create and maintain new software. Mangers can set policies and take a look at what the developers software licenses. Developers can follow these policies and find known vulnerabilities provided by NIST. This process will make developing software a safer and faster process by including open source software at the developer’s discretion. 
 
+Changes to the organization will need to be made. A policy database will need to be made and the managers need to be trained in how to handle policy and oversight of the developers. Developers will need to be trained in the risks and benefits of open source software and how to implement them into their own source code. They will also need to follow new policies made by managers. 
 
-
-Executive Summary: The executive summary must be a clearly defined description of the project. This
-includes the descriptions of why the system is design (motivation), expected changes resulting from the
-new system (organizational structure and authority and control), and the potential open source
-communities that would be engaged with to support this project (social responsibility). 
-
-^^from pdf^^
+Developers will now need to become engaged with open source communities where they are getting their source code from. They must learn to give back and guide the open source community they take code from.
